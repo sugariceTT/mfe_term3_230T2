@@ -1,4 +1,4 @@
-# 230T-2 Final Report - Forecasting volatility by hybrid models of LSTM and GARCH-type models
+# 230T-2 Final Project - Forecasting the Volatility of Stock Price Index: A HybridModel Integrating LSTM with Multiple GARCH-type Models
 
 This is the 230T-2 final project by group 6. We explored the idea of  combining inputs from 3 GARCH-type models (GARCH, EGARCH, EWMA) with LSTM to predict volatility. 
 
